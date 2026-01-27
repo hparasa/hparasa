@@ -10,7 +10,7 @@ badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hima-v-parasa/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:himaparasa19@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:hparasa3@gatech.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=Firefox-Browser&logoColor=white)](https://himaparasa.vercel.app/index.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=Firefox-Browser&logoColor=white)](https://hparasa.github.io)
 
 &nbsp;
 
