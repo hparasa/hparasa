@@ -1,6 +1,6 @@
 
 <!-- Your title -->
-## Hi, I'm Hima Parasa!
+## Hi, I'm Hima Varshini Parasa!
 
 <!--  badges
 badges: https://shields.io/
