@@ -33,7 +33,7 @@ badges: https://shields.io/
 -->
 <p>
   <a href="https://github.com/hparasa">
-    <img width="55%" align="right" alt="Hima's github stats" src="https://github-readme-stats.vercel.app/api?username=himap2569&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Hima's github stats" src="https://github-readme-stats.vercel.app/api?username=hparasa&show_icons=true&hide_border=true" />
   </a>
 
 <p align="left">
