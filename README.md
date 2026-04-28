@@ -27,6 +27,7 @@ badges: https://shields.io/
 - ⚡️ "You miss 100% of the shots you don’t take" – Michael Scott;
 
 
+
 ## Languages and Tools:
 
 <p>
@@ -66,4 +67,5 @@ badges: https://shields.io/
 **Mobile**
 
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/></p>
+
 
