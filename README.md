@@ -28,12 +28,6 @@ badges: https://shields.io/
 
 **Languages and Tools:** 
 
-<p>
-  <a href="https://github.com/hparasa">
-    <img width="55%" align="right" alt="Hima's github stats" src="https://github-readme-stats.vercel.app/api?username=hparasa&show_icons=true&hide_border=true" />
-  </a>
-</p>
-
 <table>
   <tr>
     <td><b>Languages</b></td>
