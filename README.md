@@ -22,15 +22,11 @@ badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 Student at Georgia Institute of Technology getting my Master's Degree in Computer Science;
-- 🌱 I’m  working on mastering AI/ML systems; 
-- 👾 I’m looking for opportunities to contribute to opensource;
+- 🌱 Working on mastering AI/ML systems; 
+- 👾 Looking for opportunities to contribute to opensource;
 - ⚡️ "You miss 100% of the shots you don’t take" – Michael Scott;
 
 **Languages and Tools:** 
-
-
-
-## Languages and Tools:
 
 <p>
   <a href="https://github.com/hparasa">
