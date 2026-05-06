@@ -36,16 +36,6 @@ badges: https://shields.io/
 
 &nbsp;
 
-## GitHub Stats
-
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hparasa&show_icons=true&hide_border=true" alt="" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hparasa&hide_border=true" alt="Hima's streak stats" />
-</p>
-
-
-&nbsp;
-
 ## Languages and Tools:
 
 **Languages**
