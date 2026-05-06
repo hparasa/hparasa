@@ -1,11 +1,6 @@
 <!-- Your title -->
-## Hi, I'm Hima Varshini Parasa!
+## Hi, I'm Hima Varshini Parasa! 
 
-![](https://komarev.com/ghpvc/?username=hparasa&color=blue)
-
-<!--  badges
-badges: https://shields.io/
--->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hparasa)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hima-v-parasa/)
@@ -13,6 +8,11 @@ badges: https://shields.io/
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=Firefox-Browser&logoColor=white)](https://hparasa.github.io)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:himaparasa19@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:hparasa3@gatech.edu)
+![](https://komarev.com/ghpvc/?username=hparasa&color=blue)
+
+<!--  badges
+badges: https://shields.io/
+-->
 
 
 &nbsp;
@@ -151,3 +151,4 @@ badges: https://shields.io/
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/><br>Android</td>
   </tr>
 </table>
+
