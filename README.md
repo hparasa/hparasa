@@ -39,12 +39,10 @@ badges: https://shields.io/
 ## GitHub Stats
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hparasa&show_icons=true&hide_border=true" alt="Hima's GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hparasa&show_icons=true&hide_border=true" alt="" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hparasa&hide_border=true" alt="Hima's streak stats" />
 </p>
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hparasa&layout=compact&hide_border=true" alt="Top languages" />
-</p>
+
 
 &nbsp;
 
