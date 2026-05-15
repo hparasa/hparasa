@@ -22,7 +22,7 @@ badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👩🏽‍💻 MS CS at Georgia Institute of Technology, specializing in Machine Learning;
+- 👩🏽‍💻 MS CS at Georgia Institute of Technology, specializing in Computing Systems & Machine Learning;
 - 🤖 Building distributed AI/ML systems because apparently one problem at a time was too easy; 
 - 👾 Looking for opportunities to contribute to open source;
 - ⚡️ "You miss 100% of the shots you don't take" – Michael Scott;
